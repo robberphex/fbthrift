@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.facebook.fbthrift</groupId>
   <artifactId>test</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>v2024.11.18.00</version>
 
   <inceptionYear>2022</inceptionYear>
 
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.facebook.fbthrift</groupId>
       <artifactId>common</artifactId>
-      <version>1.0.0-SNAPSHOT</version>
+      <version>v2024.11.18.00</version>
     </dependency>
 
     <dependency>
