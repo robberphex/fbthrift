@@ -29,7 +29,7 @@ import org.junit.Test;
 public class TypeRegistryRuntimeTest {
 
   @Before
-  public void init() throws Exception {
+  public void init() throws java.lang.Exception {
     // Static binding
     new TestRequest.Builder().build();
     // The rest of the classes, TestResponse, TestException and TestUnion will be
